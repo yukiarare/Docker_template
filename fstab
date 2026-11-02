@@ -1,0 +1,1 @@
+//192.168.7.163/kubota/ /mnt/nfs cifs vers=3.0,username=kubota,password=kubota240,rw,uid=1013,gid=1013,defaults 0 0
